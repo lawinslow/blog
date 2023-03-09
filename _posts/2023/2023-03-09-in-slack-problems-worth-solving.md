@@ -4,7 +4,9 @@ title: Slack Search - A Reverse Network Effect
 description: Slack search is a common pain point for Slack users, especially the slack's heaviest users.
 ---
 {: .large}
-Slack search lives in the 90's. This is a problem for many.
+Slack search is a reverse network effect: it gets worse the more Slack is used. I've been doing
+customer research for my [GPT-powered Slackbot](https://capturelabs.ai), and my conversations
+keep surfacing huge pain points around Slack search.
 
 **Note**: I'm going to use "Slack" as a synonym for Teams, Slack, Mattermost, Discord (the chat part)
 and other Slack-like
@@ -33,10 +35,11 @@ improve with use, the more content you have in Slack, the worse search is.
 This is almost the opposite of how a lot of data-driven products work. The more you use
 a tool, the better it should get for your use-case. But with Slack, more content just means more
 potential false-positives for it's keyword-based search engine. Keyword search is just as likely
-to find irrelevant content on a random, un-important channel as it is to find what you want.
+to find irrelevant content on a random, un-important channel as it is to find what you want. 
 
-I'm calling this the Reverse Network Effect. It directly competes with the normal Network Effect
-of Slack being more useful the more users are on it.
+I'm calling this the Reverse Network Effect. The more users there are on our Slack workspace, 
+the worse the problem. You gain from the user-based network effect of having access to others, 
+but a core piece of your tool gets worse. 
 
 Back when I was at Wayfair (and especially during the 100% remote pandemic times), I remember search for
 information often following this workflow. 
