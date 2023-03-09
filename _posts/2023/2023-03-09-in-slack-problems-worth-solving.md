@@ -124,8 +124,7 @@ memory can be unreliable and such filters cause as much problems as they help.
 Slack search is rough. It gets worse the larger the organization. In my customer interviews, 
 poor Slack search is frequently quoted as one of the top pain points.
 
-[^1]: It's a reverse scaling law or something, network effect feels a bit innacurate here, but it gets
-the sentiment across IMHO.
+[^1]: It's a reverse scaling law or something, network effect feels a bit innacurate here, but it gets the sentiment across IMHO.
 
 
 
