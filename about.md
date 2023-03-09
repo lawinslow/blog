@@ -1,7 +1,8 @@
 ---
 title: About
 permalink: /about/
+layout: default
 ---
 
 {: .large}
-This is an about apge
+This is an about page.
