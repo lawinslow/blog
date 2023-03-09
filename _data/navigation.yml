@@ -4,8 +4,8 @@
 - name: Blog
   link: /posts/
 
-- name: About
-  link: /about/
+#- name: About
+#  link: /about/
 
 - name: Twitter
   link: https://twitter.com/lawinslow
