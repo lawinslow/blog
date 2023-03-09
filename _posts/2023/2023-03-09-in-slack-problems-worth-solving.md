@@ -28,14 +28,14 @@ This is particularly problematic for teams that heavily rely on slack (distribut
 users). Because Slack search is keyword based, and it's "Most relevant" sort doesn't seem to learn or
 improve with use, the more content you have in Slack, the worse search is. 
 
-### Reverse Network Effect[^1]
+### Reverse Network Effect
 
 This is almost the opposite of how a lot of data-driven products work. The more you use
 a tool, the better it should get for your use-case. But with Slack, more content just means more
 potential false-positives for it's keyword-based search engine. Keyword search is just as likely
 to find irrelevant content on a random, un-important channel as it is to find what you want.
 
-I'm calling this the Reverse Network Effect. It directly competes with the normal Network Effect
+I'm calling this the Reverse Network Effect[^1]. It directly competes with the normal Network Effect
 of Slack being more useful the more users are on it.
 
 Back when I was at Wayfair (and especially during the 100% remote pandemic times), I remember search for
@@ -115,7 +115,7 @@ width="50%" >
 
 Success! Sort of. Because Slack search has a strong recency bias, my target
 conversation comes to the top. But if the message had been older, it would have
-been lost in the 1072 (!) messages that mention bigquery. The search may have been saved
+been lost in the **1072** (!) messages that mention bigquery. The search may have been saved
 if I remembered the channel or original person posting the message, but in my experience, 
 memory can be unreliable and such filters cause as much problems as they help.
 
@@ -124,7 +124,7 @@ memory can be unreliable and such filters cause as much problems as they help.
 Slack search is rough. It gets worse the larger the organization. In my customer interviews, 
 poor Slack search is frequently quoted as one of the top pain points.
 
-[^1] It's a reverse scaling law or something, network effect feels a bit innacurate here, but it gets
+[^1]: It's a reverse scaling law or something, network effect feels a bit innacurate here, but it gets
 the sentiment across IMHO.
 
 
