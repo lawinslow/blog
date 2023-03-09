@@ -85,19 +85,22 @@ a conversation about slow data flow into Google BigQuery. For reference, here is
 I'm trying to find.
 
 <img src="/assets/images/2023-03-09/target_convo.png" alt="target conversation"
-width="40%" >
+width="50%" >
 
 ### Search: bigquery slow
 
 Now, I know the issue was related to BigQuery ingest being slow, so I start simple. "bigquery slow". This doens't work because "slow" isn't actually in the conversation.
 
-![failed slack search](/assets/images/2023-03-09/search_bigquery_slow.png)
+<img src="/assets/images/2023-03-09/search_bigquery_slow.png" alt="failed slack search"
+width="50%" >
 
 ### Search: bigquery throughput
 
 Now maybe I think: They were talking about throughput issues, so let's search on that. 
 
-![failed slack search](/assets/images/2023-03-09/search_bigquery_throughput.png)
+<img src="/assets/images/2023-03-09/search_bigquery_throughput.png" alt="failed slack search"
+width="50%" >
+
 
 Nope. While the word *throughput* was in the conversation, that word didn't co-occur with BigQuery in the 
 same *message*. As any Wisconsin mother would say, Oofta. 
@@ -106,7 +109,9 @@ same *message*. As any Wisconsin mother would say, Oofta.
 
 Ok, brute force, this isn't working. Let's just drop down to *bigquery*. 
 
-![failed slack search](/assets/images/2023-03-09/search_bigquery_throughput.png)
+<img src="/assets/images/2023-03-09/search_bigquery.png" alt="failed slack search"
+width="50%" >
+
 
 Success! Sort of. Because Slack search has a strong recency bias, my target
 conversation comes to the top. But if the message had been older, it would have
