@@ -17,7 +17,7 @@ top chat-based collaboration software. I wouldn't want to go back to the world p
 when gchat and skype chat (or just lots of emails) were the common real-time chat platforms. 
 But Slack's success has created it's own problems.
 
-<img src="/assets/images/2023-03-09/network-upsplash.jpg" alt="network-thingy"
+<img src="/assets/images/2023-03-09/network-upsplash.jpg" alt="network thingy"
 width="70%" >
 
 
