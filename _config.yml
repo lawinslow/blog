@@ -18,11 +18,6 @@ redcarpet:
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      image: /assets/images/feature.webp
-  -
-    scope:
       path: ""
       type: "posts"
     values:
