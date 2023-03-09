@@ -9,6 +9,8 @@ title: Luke Winslow Blog
 plugins:
   - jekyll-seo-tag
 
+markdown: kramdown
+
 # Default front matter
 defaults:
   -
