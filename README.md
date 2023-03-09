@@ -1,3 +1,5 @@
-# Start a F**king Blog!
+# Luke Winslow Blog
 
-Repo for the startafuckingblog.com website
+Documenting the process and catharsis of my startup journey
+
+Based on startafuckingblog.com website
