@@ -28,14 +28,14 @@ This is particularly problematic for teams that heavily rely on slack (distribut
 users). Because Slack search is keyword based, and it's "Most relevant" sort doesn't seem to learn or
 improve with use, the more content you have in Slack, the worse search is. 
 
-### Reverse Network Effect
+### Reverse Network Effect[^1]
 
 This is almost the opposite of how a lot of data-driven products work. The more you use
 a tool, the better it should get for your use-case. But with Slack, more content just means more
 potential false-positives for it's keyword-based search engine. Keyword search is just as likely
 to find irrelevant content on a random, un-important channel as it is to find what you want.
 
-I'm calling this the Reverse Network Effect[^1]. It directly competes with the normal Network Effect
+I'm calling this the Reverse Network Effect. It directly competes with the normal Network Effect
 of Slack being more useful the more users are on it.
 
 Back when I was at Wayfair (and especially during the 100% remote pandemic times), I remember search for
