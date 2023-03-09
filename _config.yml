@@ -10,6 +10,8 @@ plugins:
   - jekyll-seo-tag
 
 markdown: kramdown
+redcarpet:
+  extensions: ["footnotes"]
 
 # Default front matter
 defaults:
