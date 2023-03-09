@@ -2,6 +2,7 @@
 layout: post
 title: Slack Search - A Reverse Network Effect
 description: Slack search is a common pain point for Slack users, especially the slack's heaviest users.
+image: /assets/images/2023-03-09/network-upsplash.jpg
 ---
 {: .large}
 Slack search is a reverse network effect: it gets worse the more Slack is used. I've been doing
@@ -16,9 +17,6 @@ Slack is a popular communication tool for businesses and teams. It (along with T
 top chat-based collaboration software. I wouldn't want to go back to the world pre-slack and teams,
 when gchat and skype chat (or just lots of emails) were the common real-time chat platforms. 
 But Slack's success has created it's own problems.
-
-<img src="/assets/images/2023-03-09/network-upsplash.jpg" alt="network thingy"
-width="70%" >
 
 
 ## The Problem
